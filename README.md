@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gagan157" alt="gagan157" /></a> </p>
 
-- 🌱 I’m currently learning **redux,nodejs**
+- 🌱 I’m currently learning **nodejs**
 
 - 📫 How to reach me **gaganrehal93@gmail.com**
 
